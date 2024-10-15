@@ -64,5 +64,5 @@ def main():
 
 if __name__ == "__main__":
     main()
-#fuck have no more idea
+#fuck I have no more idea
 
