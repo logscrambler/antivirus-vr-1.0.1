@@ -63,6 +63,5 @@ def main():
         print("Unknown command")
 
 if __name__ == "__main__":
-    main()
-#fuck I have no more idea
+    print "thus us builded by pilmo"
 
