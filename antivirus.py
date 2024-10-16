@@ -63,5 +63,5 @@ def main():
         print("Unknown command")
 
 if __name__ == "__main__":
-    print "thus us builded by pilmo"
+    print "this code was made by pilmo"
 
