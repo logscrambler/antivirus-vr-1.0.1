@@ -12,3 +12,4 @@ def save_virus_definitions(virus_definitions):
     with open(VIRUS_DB_PATH, 'w') as f:
         for virus in virus_definitions:
             f.write(f"{virus}\n")
+#fuck I have no idea
