@@ -50,3 +50,4 @@ def delete_virus(folder_path, virus_definitions):
             remove_virus(updated_definitions, virus)
 
     return updated_definitions
+#i have no more idea
