@@ -15,4 +15,4 @@ def remove_virus(virus_definitions, virus_to_remove):
         virus_definitions.remove(virus_to_remove)
         print(f"Removed virus definition: {virus_to_remove}")
     else:
-        print("Virus definition not found.")
+        print("virus definition not found.")
