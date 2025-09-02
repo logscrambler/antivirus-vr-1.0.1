@@ -63,11 +63,4 @@ def main():
         print("Unknown command")
 
 if __name__ == "__main__":
-    print "this code was made by  pilmo"
-
-
-
-#set code include epzx
-#set pdaj
-#ref
-
+    print "this code was made 
