@@ -1,7 +1,7 @@
 def list_viruses(virus_definitions):
     print("Current virus definitions:")
     for virus in virus_definitions:
-        print(virus)
+        print(f"- {virus}")
 
 def add_virus(virus_definitions, new_virus):
     if new_virus not in virus_definitions:
