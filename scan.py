@@ -17,7 +17,7 @@ def scan_folder(folder_path, virus_definitions):
                 print(f"Error processing file {file_path}: {e}")
 
 
-def delete_virus(folder_path, virus_definitions):
+def delete_virus(folder_path, virus_definitions): 
     updated_definitions = list(virus_definitions)  # Create a copy to modify
     for root, dirs, files in os.walk(folder_path):
         for file in files:
